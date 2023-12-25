@@ -36,3 +36,9 @@ Here are some related repository:
 
 ## Papers
 * BloombergGPT: A Large Language Model for Finance, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2303.17564)
+
+## Auditing
+* The Ethical Implications of Using Artificial Intelligence in Auditing, in *Springer Journal of Business Ethics* 2020, [\[paper\]](https://link.springer.com/article/10.1007/s10551-019-04407-1)
+* Ethics-Based Auditing to Develop Trustworthy AI, in *Springer Minds and Machines* 2021, [\[paper\]](https://link.springer.com/article/10.1007/s11023-021-09557-8)
+* Operationalising AI governance through ethics-based auditing: an industry case study, in *AI and Ethics* 2021, [\[paper\]](https://link.springer.com/article/10.1007/s43681-022-00171-7)
+* Explainable Artificial Intelligence (XAI) in auditing, in *International Journal of Accounting Information Systems* 2022, [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1467089522000240)
