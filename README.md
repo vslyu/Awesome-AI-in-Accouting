@@ -15,8 +15,12 @@ Here are some related repository:
  * [LoveNui/AI-in-finance](https://github.com/LoveNui/AI-in-finance)
  * [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
 
+## Conference
+  * [(FinLLM 2023)@IJCAI 2023](https://finllm.github.io/workshop)
+  * [ICAIF 2023](https://ai-finance.org/)
 
 ## Survey Papers
+* Large Language Models in Finance: A Survey, in *ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in Finance* 2023, [\[paper\]](https://doi.org/10.1145/3604237.3626869)
 * Artificial Intelligence in Accounting and Finance: Challenges and Opportunities, in *IEEE Access* 2023, [\[paper\]](https://ieeexplore.ieee.org/document/10319418)
 * Artificial intelligence in accounting: GAAP's "FAS133", in *WILEY Journal of Corporate Accounting & Finance* 2019, [\[paper\]](https://onlinelibrary.wiley.com/doi/10.1002/jcaf.22407)
 * AI and the Accounting Profession: Views from Industry and Academia, in *AAA Journal of Information Systems* 2023, [\[paper\]](https://publications.aaahq.org/jis/article-abstract/37/3/1/11785/AI-and-the-Accounting-Profession-Views-from)
@@ -32,7 +36,14 @@ Here are some related repository:
   [\[github\]](https://github.com/chancefocus/PIXIU)
 * **FinGPT**- Provides a playground for all people interested in LLMs and NLP in Finance.  
   [\[github\]](https://github.com/AI4Finance-Foundation/FinGPT)  [\[huggingface\]](https://huggingface.co/FinGPT)  
+* **DISC-FinLLM**- An open-source resource in the financial field specifically designed to provide users with professional, intelligent, and comprehensive financial consulting services in financial scenarios, developed by [Fudan University Data Intelligence and Social Computing Laboratory (Fudan-DISC)](http://fudan-disc.com). It also contains a collection of SFT data samples, LLM and Eval Benchmark.  
+  [\[github\]](https://github.com/FudanDISC/DISC-FinLLM)  [\[huggingface\]](https://huggingface.co/Go4miii/DISC-FinLLM) [Demo](https://fin.fudan-disc.com) | [Technical Report](http://arxiv.org/abs/2310.15205)
 
+## Evaluations
+* **FinEval**- A collection of high-quality multiple-choice questions covering finance, economy, accounting and certificate; multiple methods including zero-shot, few-shot, answer-only,and chain-of-thought prompts, evaluated for SOTA LLM models.  
+  [\[github\]](https://github.com/SUFE-AIFLM-Lab/FinEval)  [\[huggingface\]](https://huggingface.co/datasets/SUFE-AIFLM-Lab/FinEval)  [\[paper\]](https://arxiv.org/abs/2308.09975)  
+* **financial_evaluation_dataset**- An evaluation based on **FinEval** covers more dimensional financial scenarios such as wealth management, insurance, and investment research, as well as financial professional subject disciplines, the total number of evaluation questions reaches 1.3w+.  
+  [\[github\]](https://github.com/alipay/financial_evaluation_dataset) 
 
 ## Papers
 * BloombergGPT: A Large Language Model for Finance, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2303.17564)
