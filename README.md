@@ -16,7 +16,7 @@ Here are some related repository:
  * [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
 
 ## Conference
-  * [*International Symposium on Large Language Models for Financial Services(FinLLM 2023)@IJCAI 2023*](https://finllm.github.io/workshop) |
+  * [*International Symposium on Large Language Models for Financial Services(FinLLM 2023)@IJCAI 2023*](https://finllm.github.io/workshop)
   * [*ACM International Conference on AI in Finance(ICAIF)*](https://ai-finance.org/) 
 
 ## Survey Papers
@@ -45,7 +45,7 @@ Here are some related repository:
 * **financial_evaluation_dataset**- An evaluation based on **FinEval** covers more dimensional financial scenarios such as wealth management, insurance, and investment research, as well as financial professional subject disciplines, the total number of evaluation questions reaches 1.3w+.  
   [\[github\]](https://github.com/alipay/financial_evaluation_dataset) 
 
-## Papers
+## General
 * BloombergGPT: A Large Language Model for Finance, in *arXiv* 2023, [\[paper\]](https://arxiv.org/abs/2303.17564)
 
 ## Auditing
