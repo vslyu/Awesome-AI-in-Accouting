@@ -16,8 +16,8 @@ Here are some related repository:
  * [AI4Finance-Foundation/Awesome_AI4Finance](https://github.com/AI4Finance-Foundation/Awesome_AI4Finance)
 
 ## Conference
-  * [(FinLLM 2023)@IJCAI 2023](https://finllm.github.io/workshop)
-  * [ICAIF 2023](https://ai-finance.org/)
+  * [*International Symposium on Large Language Models for Financial Services(FinLLM 2023)@IJCAI 2023*](https://finllm.github.io/workshop) |
+  * [*ACM International Conference on AI in Finance(ICAIF)*](https://ai-finance.org/) 
 
 ## Survey Papers
 * Large Language Models in Finance: A Survey, in *ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in Finance* 2023, [\[paper\]](https://doi.org/10.1145/3604237.3626869)
@@ -37,7 +37,7 @@ Here are some related repository:
 * **FinGPT**- Provides a playground for all people interested in LLMs and NLP in Finance.  
   [\[github\]](https://github.com/AI4Finance-Foundation/FinGPT)  [\[huggingface\]](https://huggingface.co/FinGPT)  
 * **DISC-FinLLM**- An open-source resource in the financial field specifically designed to provide users with professional, intelligent, and comprehensive financial consulting services in financial scenarios, developed by [Fudan University Data Intelligence and Social Computing Laboratory (Fudan-DISC)](http://fudan-disc.com). It also contains a collection of SFT data samples, LLM and Eval Benchmark.  
-  [\[github\]](https://github.com/FudanDISC/DISC-FinLLM)  [\[huggingface\]](https://huggingface.co/Go4miii/DISC-FinLLM) [Demo](https://fin.fudan-disc.com) | [Technical Report](http://arxiv.org/abs/2310.15205)
+  [\[github\]](https://github.com/FudanDISC/DISC-FinLLM)  [\[huggingface\]](https://huggingface.co/Go4miii/DISC-FinLLM) [\[demo\]](https://fin.fudan-disc.com)  [\[technical report\]](http://arxiv.org/abs/2310.15205)
 
 ## Evaluations
 * **FinEval**- A collection of high-quality multiple-choice questions covering finance, economy, accounting and certificate; multiple methods including zero-shot, few-shot, answer-only,and chain-of-thought prompts, evaluated for SOTA LLM models.  
